@@ -1,2 +1,4 @@
-Privet medved
-hi, medved
+-Privet medved.
+-privet zayac!
+-privet lis
+-hi,outter
