@@ -1,2 +1,2 @@
-Privet medved.
-hi
+Privet medved
+hi, medved
